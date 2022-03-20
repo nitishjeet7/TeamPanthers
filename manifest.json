@@ -1,0 +1,27 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Team Panthers",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://teampanthers.tk",
+    "short_name": "Team Panthers",
+    "theme_color": "#63A3F2",
+    "description": "Cricket Team | BSL 2022",
+    "orientation": "any",
+    "background_color": "#FFFFFF",
+    "related_applications": [],
+    "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "https://i.postimg.cc/m2DW0LnH/thumbnail.webp",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "https://i.postimg.cc/m2DW0LnH/thumbnail.webp",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
